@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/vklap/flask-json-content-type-validator.svg?branch=master)](https://travis-ci.org/vklap/flask-json-content-type-validator)
+
 # Flask JSON Content Type Validation Decorator
 
 This package contains a Flask routes decorator that validates that the request 
