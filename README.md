@@ -27,7 +27,7 @@ class CustomError(Exception):
 
 ## Register your custom error with a flask error handler
 
-The decorator will throw your `CustomError` is the content type is not valid, 
+The decorator will throw your `CustomError` if the content type is not valid, 
 in which case you can handle and return your customized response.
 
 ```python
