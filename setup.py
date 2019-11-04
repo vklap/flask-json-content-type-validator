@@ -14,7 +14,7 @@ setup(
     keywords='flask json content validation decorator',
     license='MIT',
     install_requires=[
-        "Flask==0.12.2"
+        "Flask==1.0"
     ],
     tests_require=[]
 )
